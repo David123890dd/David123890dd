@@ -7,7 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/David123890dd/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/David123890dd/ticket-lifecycle)
 - <b>Active Directory setup Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/David123890dd/configure-ad)
+  - 
+- <b>Network File Shares and Permissions setup Microsoft Azure</b><br/>
+  - [File sharing and permissions](https://github.com/David123890dd/Files-and-permissions)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/David123890dd/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
