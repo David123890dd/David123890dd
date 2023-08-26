@@ -10,8 +10,6 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/David123890dd/configure-ad)
 - <b>Network File Shares and Permissions setup Microsoft Azure</b><br/>
   - [File sharing and permissions](https://github.com/David123890dd/Files-and-permissions)
--  <b>Disk Management</b><br/>
-    - [Disk Partitioning](https://github.com/David123890dd/partitioning)
 
 <h2>🤳Connect with me:</h2>
 
